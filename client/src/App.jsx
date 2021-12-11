@@ -4,7 +4,7 @@ import {Chat} from 'stream-chat-react';
 import Cookies from 'universal-cookie/es6';
 
 
-import { ChannelContainer,ChannelListContainer } from './components';
+import { ChannelContainer,ChannelListContainer,ChannelSearch } from './components';
 
 import './App.css';
 
